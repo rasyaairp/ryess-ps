@@ -194,9 +194,8 @@
         Selamat datang di dunia gaming penuh kemewahan dan kecanggihan dengan PlayStation, di mana hiburan tidak hanya menjadi pengalaman, tetapi juga sebuah petualangan tak terlupakan. PlayStation tidak sekadar konsol game, ia adalah portal magis yang membuka pintu ke dunia fantasi yang begitu mendalam.
         </p>
         <div class="footer__socials">
-          <a href="https://youtube.com/@dafiraone"><i class="ri-youtube-line"></i></a>
-          <a href="https://wa.me/6281476652656"><i class="ri-whatsapp-line"></i></a>
-          <a href="https://instagram.com/raihanalrais"><i class="ri-instagram-line"></i></a>
+          <a href="https://wa.me/6281231144281"><i class="ri-whatsapp-line"></i></a>
+          <a href="https://instagram.com/rasyaairp"><i class="ri-instagram-line"></i></a>
         </div>
       </div>
       <div class="footer__col ml-16">

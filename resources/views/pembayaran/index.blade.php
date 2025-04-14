@@ -21,7 +21,7 @@
     @foreach($pembayaran as $p)
     <tr>
       <td>{{$p['id']}}</td>
-      <td>{{$p['nominal']}}</td>
+      <td>Rp {{number_format($p['nominal'], 0, ',', '.')}}</td>
       <td>{{$p['status']}}</td>
       @if(!empty($p['bukti_pembayaran']))
       <td>

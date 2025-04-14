@@ -87,7 +87,7 @@ class RentalController extends Controller
             'selesai' => $request->input('selesai'),
         ]);
 
-        return Redirect::to("https://wa.me/6281476652656?text=" . urlencode("Rental PS\nNama : ") . Auth::user()['nama'] . urlencode("\nKonsol : ") . $request->input('konsol') . urlencode("\nMulai : ") . $request->input('mulai') . urlencode("\nSelesai : ") . $request->input('selesai'));
+        return Redirect::to("https://wa.me/6281231144281?text=" . urlencode("Rental PS\nNama : ") . Auth::user()['nama'] . urlencode("\nKonsol : ") . $request->input('konsol') . urlencode("\nMulai : ") . $request->input('mulai') . urlencode("\nSelesai : ") . $request->input('selesai'));
     }
 
     /**

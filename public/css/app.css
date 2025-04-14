@@ -559,6 +559,9 @@ body {
   margin: auto;
   padding: 1rem;
   font-size: 0.8rem;
+  text-align: center;
+  border-top: 1px rgba(128, 128, 128, 0.432) solid;
+  border-radius: 100%;
   color: var(--white);
 }
 

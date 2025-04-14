@@ -12,10 +12,9 @@
   <div class="header__content">
     <span class="bg__blur"></span>
     <span class="bg__blur header__blur"></span>
-    <h4>Tempat Penyewaan Playstation Terbaik dan Terpercaya</h4>
+    <h4>Ryess PS, Tempat Penyewaan Playstation Terbaik dan Terpercaya</h4>
     <h1><span>MAINKAN</span> GAME IMPIANMU DISINI</h1>
     <p>Telusuri dunia gaming dengan pengalaman bermain yang mendalam bersama sewa PlayStation terbaik kami! Tingkatkan sesi gaming Anda ke level baru tanpa harus berkomitmen untuk membeli. Di "PlayStation Haven," kami menyediakan konsol terbaru, perpustakaan game yang luas, dan aksesori untuk menciptakan tempat bermain ultimate di ruang Anda sendiri.</p>
-    <button class="btn">Mulai Bermain</button>
   </div>
   <div class="header__image">
     <img src="{{asset('assets/esport.png')}}" alt="header" />
@@ -24,11 +23,7 @@
 
     <section class="section__container explore__container">
       <div class="explore__header">
-        <h2 class="section__header">JELAJAHI LAYANAN KAMI</h2>
-        <div class="explore__nav">
-          <span><i class="ri-arrow-left-line"></i></span>
-          <span><i class="ri-arrow-right-line"></i></span>
-        </div>
+        <h2 class="section__header text-center" style="text-align: center;">JELAJAHI LAYANAN KAMI</h2>
       </div>
       <div class="explore__grid">
         <div class="explore__card">
@@ -116,75 +111,6 @@
       </div>
     </section>
 
-    <section class="section__container price__container">
-      <h2 class="section__header">Daftar Harga Member</h2>
-      <div class="price__grid">
-        <div class="price__card">
-          <div class="price__card__content">
-            <h4>Basic Plan</h4>
-            <h3>IDR 10k/hours</h3>
-            <p>
-              <i class="ri-checkbox-circle-line"></i>
-              1 Sofa (2 orang)
-            </p>
-            <p>
-              <i class="ri-checkbox-circle-line"></i>
-              Ruangan Ber-AC
-            </p>
-          </div>
-          <a href="/register">
-            <button class="btn price__btn">Join Now</button>
-          </a>
-        </div>
-        <div class="price__card">
-          <div class="price__card__content">
-            <h4>Medium Plan</h4>
-            <h3>IDR 15k/hours</h3>
-            <p>
-              <i class="ri-checkbox-circle-line"></i>
-              2 Sofa (4 Orang)
-            </p>
-            <p>
-              <i class="ri-checkbox-circle-line"></i>
-              TV 32 Inch
-            </p>
-            <p>
-              <i class="ri-checkbox-circle-line"></i>
-              FREE WIFI
-            </p>
-          </div>
-          <a href="/register">
-            <button class="btn price__btn">Join Now</button>
-          </a>
-        </div>
-        <div class="price__card">
-          <div class="price__card__content">
-            <h4>Professional Plan</h4>
-            <h3>IDR 25k/hours</h3>
-            <p>
-              <i class="ri-checkbox-circle-line"></i>
-              Fitur Online
-            </p>
-            <p>
-              <i class="ri-checkbox-circle-line"></i>
-              Tanpa batasan orang
-            </p>
-            <p>
-              <i class="ri-checkbox-circle-line"></i>
-              4 Controller
-            </p>
-            <p>
-              <i class="ri-checkbox-circle-line"></i>
-              TV 50 Inch
-            </p>
-          </div>
-          <a href="/register">
-            <button class="btn price__btn">Join Now</button>
-          </a>
-        </div>
-      </div>
-    </section>
-
     <footer class="section__container footer__container">
       <span class="bg__blur"></span>
       <span class="bg__blur footer__blur"></span>
@@ -204,13 +130,12 @@
         <a href="https://www.sony.co.id/id/">Sony</a>
       </div>
       <div class="footer__col ml-16">
-        <h4>About Us</h4>
-        <a href="https://instagram.com/dafiraone">Daffa</a>
-        <a href="https://bio.link/zakyafrizal">Zaky</a>
-        <a href="https://instagram.com/raihanalrais">Raihan</a>
+        <h4>Lokasi</h4>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3955.0856976683826!2d110.76621847363889!3d-7.5656355924483885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a1452287aecf7%3A0x91564b399d7f4aed!2sKarya%20Motor!5e0!3m2!1sid!2sid!4v1744657391471!5m2!1sid!2sid" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <p class="pt-3">Jl. Slamet Riyadi No.306, Dusun III, Gumpang, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah 57161</p>
       </div>
     </footer>
     <div class="footer__bar">
-    © 2024 Web Rental Playstation. dafiraone.
+    Copyright © 2025 Ryess PS
     </div>     
 @endsection
